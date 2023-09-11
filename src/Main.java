@@ -12,10 +12,10 @@ public class Main {
              result += Math.pow(number, len);
 
         }
-        if (result == Double.parseDouble(String.valueOf(num))){
-            System.out.println("true");
+        if (result == Double.parseDouble(num)){
+            System.out.println("true ");
         }else {
-            System.out.println("false");
+            System.out.println("false ");
 
         }
 
